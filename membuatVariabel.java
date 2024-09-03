@@ -1,4 +1,4 @@
-public class MembuatVariabel {
+public class membuatVariabel {
     public static void main(String[] args) {
         //tipe data bagaikan sebuah label
 
